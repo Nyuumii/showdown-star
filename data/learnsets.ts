@@ -82941,6 +82941,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			helpinghand: ["8M"],
 			hyperbeam: ["8M"],
 			hypervoice: ["8M"],
+			icebeam: ["8M"],
 			nuzzle: ["8L1"],
 			playrough: ["8M", "8L55"],
 			protect: ["8M"],
