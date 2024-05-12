@@ -82964,6 +82964,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			uproar: ["8M"],
 			voltswitch: ["8M"],
 			wildcharge: ["8M", "8L48"],
+			zippyzap: ["8M", "8L48"],
 		},
 	},
 	rolycoly: {
